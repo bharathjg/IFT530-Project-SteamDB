@@ -1,0 +1,501 @@
+order_id,customer_id,order_total_usd,make,model,delivery_city,delivery_company,delivery_address
+1,501,188557.78,Ford,Thunderbird,error: undefined method `strip' for nil:NilClass,"Kulas, O'Hara and Brekke",1026 Erie Point
+2,6,185287.88,BMW,530,error: undefined method `strip' for nil:NilClass,O'Hara Group,4 Marcy Point
+3,215,193985.18,Toyota,4Runner,error: undefined method `strip' for nil:NilClass,Berge-Kling,522 Gerald Street
+4,43,111107.32,Ford,F250,error: undefined method `strip' for nil:NilClass,Monahan Inc,72 Spaight Court
+5,296,152072.31,Nissan,Xterra,error: undefined method `strip' for nil:NilClass,"Bayer, Zulauf and Mitchell",67 Straubel Terrace
+6,907,193457.33,GMC,Sierra 3500,error: undefined method `strip' for nil:NilClass,Stiedemann-Leannon,5 Sage Circle
+7,953,202494.17,Cadillac,Fleetwood,error: undefined method `strip' for nil:NilClass,Abbott-Bahringer,12645 Northport Street
+8,261,53774.51,Ford,Econoline E350,error: undefined method `strip' for nil:NilClass,Feeney-Howell,31 Caliangt Road
+9,333,173107.83,Volkswagen,Jetta,error: undefined method `strip' for nil:NilClass,"Hermann, Cartwright and Kuphal",1138 Kenwood Hill
+10,42,116225.93,Jeep,Grand Cherokee,error: undefined method `strip' for nil:NilClass,"Sawayn, Hessel and Medhurst",06 7th Pass
+11,797,44885.57,Suzuki,Swift,error: undefined method `strip' for nil:NilClass,"O'Kon, McCullough and Koch",6022 Fisk Pass
+12,701,44732.16,Audi,S8,error: undefined method `strip' for nil:NilClass,"Stiedemann, Botsford and Terry",22091 4th Lane
+13,435,208635.41,Pontiac,Grand Prix,error: undefined method `strip' for nil:NilClass,McGlynn-Kling,3367 Grayhawk Point
+14,269,139968.20,Mercury,Sable,error: undefined method `strip' for nil:NilClass,"Ruecker, Runolfsson and Durgan",65352 Schlimgen Terrace
+15,232,99608.54,Acura,NSX,error: undefined method `strip' for nil:NilClass,Considine Inc,5 Surrey Street
+16,381,48912.36,Chevrolet,Avalanche 1500,error: undefined method `strip' for nil:NilClass,"Wehner, Mertz and Hilll",95 Mendota Street
+17,677,80573.86,Toyota,T100,error: undefined method `strip' for nil:NilClass,Parker-Rosenbaum,786 Oriole Way
+18,967,209419.73,Cadillac,SRX,error: undefined method `strip' for nil:NilClass,Wilkinson-Purdy,16969 Nova Alley
+19,898,106199.67,Volvo,XC90,error: undefined method `strip' for nil:NilClass,Hettinger LLC,50 Kipling Drive
+20,268,74596.84,Dodge,Ram 1500,error: undefined method `strip' for nil:NilClass,"Bradtke, Legros and Gislason",69 Tomscot Point
+21,760,75884.17,Ram,C/V,error: undefined method `strip' for nil:NilClass,Koss-Leuschke,273 Delaware Alley
+22,707,16892.30,Subaru,Leone,error: undefined method `strip' for nil:NilClass,"Dicki, O'Reilly and Schowalter",2883 Green Center
+23,109,59525.61,Jeep,Cherokee,error: undefined method `strip' for nil:NilClass,Goyette-Bergstrom,570 Sherman Court
+24,570,54869.49,Scion,xD,error: undefined method `strip' for nil:NilClass,Langosh-Runolfsson,7391 Thompson Center
+25,690,95388.71,Chevrolet,Corvette,error: undefined method `strip' for nil:NilClass,"Rutherford, Satterfield and Zemlak",30895 Grayhawk Pass
+26,537,117998.80,Pontiac,Sunfire,error: undefined method `strip' for nil:NilClass,Schroeder-Witting,586 Morrow Junction
+27,157,199805.45,Porsche,Cayenne,error: undefined method `strip' for nil:NilClass,"Abshire, Wisoky and Dicki",25928 Del Sol Alley
+28,265,77225.15,Dodge,Ram Van 1500,error: undefined method `strip' for nil:NilClass,Labadie-Mueller,93 Maple Wood Way
+29,396,98468.99,GMC,Savana 2500,error: undefined method `strip' for nil:NilClass,Renner-Kling,91 Comanche Crossing
+30,301,133162.50,GMC,Suburban 2500,error: undefined method `strip' for nil:NilClass,"Kemmer, Johnson and Funk",89841 Buhler Park
+31,597,23618.86,Dodge,Ram 3500,error: undefined method `strip' for nil:NilClass,"Crona, Hilll and Upton",8 Bluejay Drive
+32,951,102755.71,Volvo,V40,error: undefined method `strip' for nil:NilClass,"Schaden, Wyman and Strosin",3 Elmside Park
+33,274,212181.58,Kia,Sportage,error: undefined method `strip' for nil:NilClass,"Franecki, Schoen and O'Connell",54996 Rowland Junction
+34,412,110050.82,Mercedes-Benz,M-Class,error: undefined method `strip' for nil:NilClass,Zboncak-Kertzmann,74 Burning Wood Terrace
+35,581,133928.43,Lotus,Esprit,error: undefined method `strip' for nil:NilClass,Harris and Sons,0193 Mockingbird Street
+36,538,85886.52,Lotus,Esprit,error: undefined method `strip' for nil:NilClass,"Bogan, Swaniawski and Crona",26 Declaration Trail
+37,485,77749.85,Pontiac,Firebird,error: undefined method `strip' for nil:NilClass,"Daniel, Labadie and Cremin",3 Oxford Lane
+38,720,23115.70,Mazda,CX-9,error: undefined method `strip' for nil:NilClass,MacGyver-Turner,048 Stone Corner Circle
+39,934,171943.27,Cadillac,Seville,error: undefined method `strip' for nil:NilClass,Schamberger Group,01 Oak Way
+40,761,192298.26,Ford,E350,error: undefined method `strip' for nil:NilClass,Schuster-Hauck,6 Hoffman Park
+41,766,135328.20,Ford,F-Series,error: undefined method `strip' for nil:NilClass,Johnston-Williamson,0613 Reindahl Way
+42,597,150991.58,Chevrolet,Sportvan G20,error: undefined method `strip' for nil:NilClass,Will-Adams,8664 Cordelia Circle
+43,745,117079.81,Ford,F350,error: undefined method `strip' for nil:NilClass,Price-McKenzie,94 Algoma Junction
+44,291,213353.67,Volvo,V70,error: undefined method `strip' for nil:NilClass,"Gibson, Breitenberg and Hermann",685 Stuart Lane
+45,257,56455.73,Ford,Aerostar,error: undefined method `strip' for nil:NilClass,Vandervort-Yundt,7874 Schiller Road
+46,939,136122.62,Chevrolet,Camaro,error: undefined method `strip' for nil:NilClass,Swaniawski-Treutel,40 Reinke Plaza
+47,856,136993.87,Pontiac,Grand Prix,error: undefined method `strip' for nil:NilClass,Kemmer-Simonis,5941 Delladonna Drive
+48,798,88419.29,Mazda,B-Series Plus,error: undefined method `strip' for nil:NilClass,Friesen-Armstrong,48 Pine View Parkway
+49,491,57849.36,GMC,Safari,error: undefined method `strip' for nil:NilClass,Stiedemann-Abernathy,8 Rusk Road
+50,902,113180.08,Pontiac,Grand Prix,error: undefined method `strip' for nil:NilClass,Jacobson and Sons,2 Village Green Point
+51,288,163132.79,Isuzu,Axiom,error: undefined method `strip' for nil:NilClass,"Treutel, Zboncak and Collins",2 Tomscot Way
+52,158,193932.90,Toyota,FJ Cruiser,error: undefined method `strip' for nil:NilClass,Emmerich Inc,95 Esker Crossing
+53,72,187134.02,Chevrolet,Impala,error: undefined method `strip' for nil:NilClass,Hegmann-Goyette,93433 New Castle Place
+54,365,95736.54,Dodge,Ram 2500,error: undefined method `strip' for nil:NilClass,Hegmann-Schuppe,2050 Center Hill
+55,354,127134.55,Oldsmobile,Bravada,error: undefined method `strip' for nil:NilClass,Friesen and Sons,3879 Melody Way
+56,390,63215.42,Land Rover,Range Rover,error: undefined method `strip' for nil:NilClass,"Conn, Friesen and McCullough",79799 Northridge Court
+57,738,121476.88,Toyota,Prius,error: undefined method `strip' for nil:NilClass,Runolfsson LLC,91 Drewry Way
+58,144,137140.61,Plymouth,Sundance,error: undefined method `strip' for nil:NilClass,Batz-Cassin,2310 Bashford Hill
+59,879,79686.72,Subaru,Legacy,error: undefined method `strip' for nil:NilClass,"Considine, Fay and Torphy",603 Killdeer Point
+60,386,64368.59,Dodge,Ram 3500,error: undefined method `strip' for nil:NilClass,"Effertz, Smitham and Mayer",2060 Di Loreto Place
+61,601,56569.29,Kia,Rio,error: undefined method `strip' for nil:NilClass,Ritchie and Sons,13491 Jenna Avenue
+62,26,146204.11,Plymouth,Laser,error: undefined method `strip' for nil:NilClass,Oberbrunner-Larkin,40 Carioca Road
+63,666,208985.15,Lincoln,Town Car,error: undefined method `strip' for nil:NilClass,"Sipes, MacGyver and Gutmann",08739 Doe Crossing Junction
+64,560,163953.90,Nissan,370Z,error: undefined method `strip' for nil:NilClass,"Hegmann, Larson and Okuneva",1886 Lotheville Way
+65,619,140179.28,Geo,Storm,error: undefined method `strip' for nil:NilClass,"McLaughlin, Glover and Blick",6 Pine View Center
+66,821,96399.16,Pontiac,Turbo Firefly,error: undefined method `strip' for nil:NilClass,Murphy Inc,9078 Hazelcrest Court
+67,411,189670.89,Dodge,D250 Club,error: undefined method `strip' for nil:NilClass,"Cremin, Halvorson and Mann",7 Debs Pass
+68,562,53444.93,Volkswagen,New Beetle,error: undefined method `strip' for nil:NilClass,Fritsch-Schaefer,9 Grasskamp Point
+69,317,147432.97,Chevrolet,Cobalt,error: undefined method `strip' for nil:NilClass,Rogahn-Weber,97653 Sugar Alley
+70,356,108210.02,GMC,Sierra 3500,error: undefined method `strip' for nil:NilClass,"Luettgen, Botsford and Mann",37 Emmet Hill
+71,595,19730.48,Mitsubishi,Lancer,error: undefined method `strip' for nil:NilClass,"Blanda, Schaden and Weber",98 Columbus Alley
+72,286,149122.92,Audi,S4,error: undefined method `strip' for nil:NilClass,Stroman-Grady,508 Doe Crossing Point
+73,521,172882.80,Buick,Skylark,error: undefined method `strip' for nil:NilClass,Lockman Group,9 Weeping Birch Alley
+74,55,84696.34,Volvo,V50,error: undefined method `strip' for nil:NilClass,Collins-Kemmer,04520 Bonner Park
+75,153,180407.38,Pontiac,Grand Am,error: undefined method `strip' for nil:NilClass,Langosh Group,7 Claremont Street
+76,736,17039.07,Mitsubishi,Mighty Max Macro,error: undefined method `strip' for nil:NilClass,"D'Amore, Crooks and Bradtke",1 Laurel Way
+77,941,65378.51,GMC,Safari,error: undefined method `strip' for nil:NilClass,Tremblay-Schultz,527 Laurel Junction
+78,611,85362.89,Buick,Riviera,error: undefined method `strip' for nil:NilClass,Ritchie LLC,1580 Schmedeman Street
+79,102,77801.59,Dodge,Journey,error: undefined method `strip' for nil:NilClass,"Rempel, Fay and Bruen",64 Gerald Center
+80,636,49968.85,Nissan,Maxima,error: undefined method `strip' for nil:NilClass,Huels Inc,33 Onsgard Circle
+81,533,148202.29,Acura,Vigor,error: undefined method `strip' for nil:NilClass,Koepp and Sons,665 Melvin Center
+82,517,200087.62,Chrysler,LHS,error: undefined method `strip' for nil:NilClass,Bruen-Lehner,3 Colorado Lane
+83,325,217866.83,Saturn,S-Series,error: undefined method `strip' for nil:NilClass,Walsh-Bradtke,84 Manley Crossing
+84,40,35007.22,Hyundai,Veracruz,error: undefined method `strip' for nil:NilClass,"Keeling, Powlowski and Herman",1131 Hudson Way
+85,501,192362.79,Buick,Enclave,error: undefined method `strip' for nil:NilClass,Hoppe Group,4297 Eagle Crest Crossing
+86,150,116125.10,Porsche,911,error: undefined method `strip' for nil:NilClass,"Buckridge, Runolfsson and Koss",2 Heffernan Terrace
+87,481,34809.22,Volkswagen,Passat,error: undefined method `strip' for nil:NilClass,Koelpin and Sons,7734 Grayhawk Park
+88,544,127976.26,GMC,Savana 2500,error: undefined method `strip' for nil:NilClass,Nitzsche-MacGyver,5546 Roth Center
+89,141,49720.62,Mercedes-Benz,E-Class,error: undefined method `strip' for nil:NilClass,Predovic-Ankunding,48 Prairieview Center
+90,220,109654.09,Lexus,LS Hybrid,error: undefined method `strip' for nil:NilClass,Botsford-Paucek,2 Blue Bill Park Point
+91,470,206618.19,Mercedes-Benz,SLK-Class,error: undefined method `strip' for nil:NilClass,Rogahn LLC,877 Artisan Plaza
+92,129,70342.71,Toyota,Corolla,error: undefined method `strip' for nil:NilClass,Reichert Inc,2 Independence Alley
+93,613,31734.19,GMC,Savana 2500,error: undefined method `strip' for nil:NilClass,"Gottlieb, Gutmann and Bradtke",07736 Amoth Point
+94,712,38546.59,Chevrolet,Equinox,error: undefined method `strip' for nil:NilClass,Hauck-Ledner,511 Northport Pass
+95,214,16805.45,Cadillac,Escalade,error: undefined method `strip' for nil:NilClass,Stehr LLC,3360 Sage Pass
+96,118,43639.78,Mercedes-Benz,500SEC,error: undefined method `strip' for nil:NilClass,Harvey-Zemlak,0 Stang Place
+97,656,171910.92,Volkswagen,Jetta,error: undefined method `strip' for nil:NilClass,"Hintz, O'Hara and Herman",0 Knutson Lane
+98,564,193916.27,Aston Martin,DBS,error: undefined method `strip' for nil:NilClass,"Jerde, Zieme and Kerluke",500 Barnett Crossing
+99,996,85787.39,Mercedes-Benz,SL-Class,error: undefined method `strip' for nil:NilClass,"Berge, Grimes and Kertzmann",61311 Morrow Street
+100,29,52976.73,Lexus,IS,error: undefined method `strip' for nil:NilClass,Schulist-Stokes,7703 Golf Course Center
+101,371,98510.40,Chrysler,PT Cruiser,error: undefined method `strip' for nil:NilClass,"Lueilwitz, Lakin and Howell",4 Comanche Alley
+102,348,68176.93,GMC,Vandura G2500,error: undefined method `strip' for nil:NilClass,"Christiansen, Gislason and Cassin",55 Washington Parkway
+103,241,203602.35,BMW,3 Series,error: undefined method `strip' for nil:NilClass,Konopelski-Huels,48117 Nevada Pass
+104,978,144709.16,Toyota,Camry,error: undefined method `strip' for nil:NilClass,Champlin-Gutkowski,4 Sachtjen Hill
+105,292,144472.88,Dodge,Shadow,error: undefined method `strip' for nil:NilClass,Jaskolski-Crona,21 Hanover Drive
+106,554,41478.90,Dodge,Grand Caravan,error: undefined method `strip' for nil:NilClass,Douglas-Stoltenberg,8 Hanson Center
+107,759,134734.62,Ford,Crown Victoria,error: undefined method `strip' for nil:NilClass,West-Stark,90 Coleman Plaza
+108,301,29041.35,Buick,Regal,error: undefined method `strip' for nil:NilClass,Kautzer-Renner,01533 Dunning Road
+109,37,183895.98,Lexus,ES,error: undefined method `strip' for nil:NilClass,Langosh LLC,482 Caliangt Avenue
+110,214,210508.32,Aston Martin,Vantage,error: undefined method `strip' for nil:NilClass,Farrell Inc,7098 Darwin Place
+111,265,140870.14,BMW,X5,error: undefined method `strip' for nil:NilClass,Jenkins-Bauch,0 Summit Way
+112,702,177365.35,Chevrolet,2500,error: undefined method `strip' for nil:NilClass,"Kulas, Grady and Willms",045 Daystar Plaza
+113,393,193388.14,Pontiac,Grand Prix,error: undefined method `strip' for nil:NilClass,"Hegmann, Streich and Feil",5 Reindahl Road
+114,830,175427.37,Mazda,Mazda2,error: undefined method `strip' for nil:NilClass,Hessel Inc,1 Mosinee Road
+115,503,115447.43,Mitsubishi,Galant,error: undefined method `strip' for nil:NilClass,Hoppe-Rogahn,96 Daystar Street
+116,842,19483.29,Dodge,Dakota,error: undefined method `strip' for nil:NilClass,Schiller-Stanton,50667 Luster Hill
+117,458,138203.66,Suzuki,XL-7,error: undefined method `strip' for nil:NilClass,"Tremblay, Robel and Rippin",4304 Corscot Court
+118,299,113094.85,Audi,A4,error: undefined method `strip' for nil:NilClass,Crooks LLC,86 John Wall Park
+119,158,84744.92,Porsche,911,error: undefined method `strip' for nil:NilClass,Johnston Group,8 Mcbride Park
+120,899,175543.96,Isuzu,Rodeo Sport,error: undefined method `strip' for nil:NilClass,"Sawayn, Bradtke and Hirthe",034 Ohio Center
+121,764,105096.72,Volvo,S80,error: undefined method `strip' for nil:NilClass,Treutel-Ryan,6 Scott Court
+122,679,143382.28,Mitsubishi,Galant,error: undefined method `strip' for nil:NilClass,Kuhn Inc,718 Westend Point
+123,309,106283.08,GMC,2500,error: undefined method `strip' for nil:NilClass,"Ziemann, Ledner and Walker",2959 Maryland Point
+124,874,116911.85,Austin,Mini,error: undefined method `strip' for nil:NilClass,Osinski-Emard,77388 Nobel Pass
+125,392,104055.13,Pontiac,Vibe,error: undefined method `strip' for nil:NilClass,"Kertzmann, Wintheiser and Brown",23990 Fairfield Avenue
+126,67,135458.31,Saturn,S-Series,error: undefined method `strip' for nil:NilClass,Rau-Bins,87 Welch Circle
+127,529,102857.97,BMW,M6,error: undefined method `strip' for nil:NilClass,Shields-Kuhlman,02400 Buhler Way
+128,114,50814.44,Jeep,Wrangler,error: undefined method `strip' for nil:NilClass,"Rippin, Schimmel and Heller",30 Grayhawk Drive
+129,115,80149.74,Maserati,Spyder,error: undefined method `strip' for nil:NilClass,"Kutch, Fay and Fisher",4 Nobel Street
+130,505,204320.25,Dodge,Ram Van B250,error: undefined method `strip' for nil:NilClass,Veum Group,541 Mallory Hill
+131,552,171704.43,Volkswagen,Cabriolet,error: undefined method `strip' for nil:NilClass,Pfeffer LLC,10 Eggendart Pass
+132,816,141174.48,Holden,VS Commodore,error: undefined method `strip' for nil:NilClass,Ferry-Carter,8867 East Plaza
+133,656,185928.32,Infiniti,M,error: undefined method `strip' for nil:NilClass,Bergnaum-Reichel,3 Anderson Terrace
+134,751,217984.68,Dodge,Dakota,error: undefined method `strip' for nil:NilClass,"Leannon, Wiza and Weber",55 International Terrace
+135,22,60941.47,Dodge,Ram 2500 Club,error: undefined method `strip' for nil:NilClass,Labadie-Heidenreich,4 Delladonna Way
+136,809,190013.72,Hyundai,Scoupe,error: undefined method `strip' for nil:NilClass,Bernhard Inc,516 Rieder Junction
+137,476,130095.47,Acura,CL,error: undefined method `strip' for nil:NilClass,McClure and Sons,78484 Lukken Parkway
+138,376,212618.82,Cadillac,XLR-V,error: undefined method `strip' for nil:NilClass,Ritchie LLC,10260 High Crossing Crossing
+139,973,214768.07,Mazda,Miata MX-5,error: undefined method `strip' for nil:NilClass,"Cormier, Rowe and Hilll",8084 Maryland Lane
+140,813,152051.61,Honda,Civic GX,error: undefined method `strip' for nil:NilClass,Hills-Lehner,0412 Mesta Way
+141,639,135992.41,Volkswagen,Cabriolet,error: undefined method `strip' for nil:NilClass,Will-Dickinson,992 Mitchell Way
+142,931,196754.69,Land Rover,Discovery,error: undefined method `strip' for nil:NilClass,Wintheiser and Sons,2594 Grayhawk Point
+143,802,184940.28,BMW,530,error: undefined method `strip' for nil:NilClass,"Torp, Leuschke and Jones",660 Gale Pass
+144,913,128081.87,Porsche,911,error: undefined method `strip' for nil:NilClass,"Roberts, Douglas and Leannon",0 Rieder Parkway
+145,969,147314.50,Dodge,Durango,error: undefined method `strip' for nil:NilClass,Olson-Hagenes,1492 Meadow Valley Center
+146,585,108934.86,GMC,Sonoma Club Coupe,error: undefined method `strip' for nil:NilClass,"Hansen, Emmerich and MacGyver",4 Fairview Park
+147,423,36508.70,Mazda,626,error: undefined method `strip' for nil:NilClass,Rutherford and Sons,97 Park Meadow Center
+148,221,194645.26,Isuzu,Space,error: undefined method `strip' for nil:NilClass,Harber-Kuhn,457 Sachtjen Place
+149,208,99193.81,Toyota,Land Cruiser,error: undefined method `strip' for nil:NilClass,"Macejkovic, Reynolds and Jacobi",87739 Magdeline Street
+150,600,25394.59,Mazda,Mazda5,error: undefined method `strip' for nil:NilClass,"Boyer, Paucek and Schamberger",32603 Forster Place
+151,512,217963.60,Ford,Mustang,error: undefined method `strip' for nil:NilClass,Gleichner and Sons,69236 Oakridge Way
+152,119,123925.75,Buick,Park Avenue,error: undefined method `strip' for nil:NilClass,Goyette-Schmidt,59128 Redwing Center
+153,419,22119.06,Ford,Mustang,error: undefined method `strip' for nil:NilClass,Schaefer-Green,06 Starling Avenue
+154,625,16650.05,Lincoln,Blackwood,error: undefined method `strip' for nil:NilClass,Waters Group,4 Montana Trail
+155,5,80256.26,Mitsubishi,Galant,error: undefined method `strip' for nil:NilClass,"Ankunding, Cummings and Zemlak",9 Fallview Crossing
+156,510,160702.00,Chevrolet,Express 1500,error: undefined method `strip' for nil:NilClass,Schmidt Group,9611 Graceland Drive
+157,787,161558.32,Oldsmobile,Achieva,error: undefined method `strip' for nil:NilClass,Torphy-Shields,98 Evergreen Road
+158,391,88181.19,Mercury,Mystique,error: undefined method `strip' for nil:NilClass,Hamill Inc,763 Reinke Center
+159,154,104309.86,Lexus,ES,error: undefined method `strip' for nil:NilClass,Paucek-Deckow,3 Bluestem Alley
+160,756,217660.13,Mercedes-Benz,R-Class,error: undefined method `strip' for nil:NilClass,"Larson, Breitenberg and Pfannerstill",819 Golf Course Plaza
+161,600,168611.55,Chevrolet,S10 Blazer,error: undefined method `strip' for nil:NilClass,Mertz Group,363 Eastlawn Crossing
+162,920,116966.00,Ford,Laser,error: undefined method `strip' for nil:NilClass,Zieme-Rosenbaum,75 Bluejay Alley
+163,213,25402.68,Plymouth,Horizon,error: undefined method `strip' for nil:NilClass,Stanton Group,81756 Forest Dale Parkway
+164,58,130978.94,Honda,S2000,error: undefined method `strip' for nil:NilClass,"Douglas, Crooks and Durgan",05196 Buena Vista Crossing
+165,772,84846.63,Audi,Q5,error: undefined method `strip' for nil:NilClass,Kilback-Hauck,775 Declaration Point
+166,751,92754.61,Chrysler,200,error: undefined method `strip' for nil:NilClass,Konopelski-Lakin,86 Green Ridge Trail
+167,904,65206.52,Saab,9-3,error: undefined method `strip' for nil:NilClass,"Bradtke, Morissette and Kemmer",52081 Veith Way
+168,655,159371.95,Suzuki,Samurai,error: undefined method `strip' for nil:NilClass,Spencer Inc,195 Gateway Park
+169,340,104584.53,Kia,Rio5,error: undefined method `strip' for nil:NilClass,Torphy Group,7563 Helena Road
+170,24,46676.31,Ford,Windstar,error: undefined method `strip' for nil:NilClass,"Hamill, Kautzer and Orn",40 Canary Trail
+171,887,208601.47,Mitsubishi,Endeavor,error: undefined method `strip' for nil:NilClass,Langworth-Mayert,6733 Killdeer Hill
+172,772,130956.98,Cadillac,DeVille,error: undefined method `strip' for nil:NilClass,O'Kon and Sons,598 Harbort Parkway
+173,319,168370.57,Lexus,RX,error: undefined method `strip' for nil:NilClass,Rath and Sons,63215 Stoughton Street
+174,248,75317.98,Jaguar,XJ Series,error: undefined method `strip' for nil:NilClass,Pouros-Gibson,27325 Dayton Hill
+175,942,95755.32,Lincoln,Navigator L,error: undefined method `strip' for nil:NilClass,Brakus LLC,9394 Del Sol Street
+176,150,61159.70,Aston Martin,Vantage,error: undefined method `strip' for nil:NilClass,Blick-Swift,73 Mccormick Court
+177,129,189910.64,Saab,9-7X,error: undefined method `strip' for nil:NilClass,Gleichner-Hackett,8 Atwood Crossing
+178,140,154204.79,Subaru,Impreza,error: undefined method `strip' for nil:NilClass,"Runolfsson, Connelly and Barton",97145 Stephen Center
+179,827,164340.12,Mitsubishi,Galant,error: undefined method `strip' for nil:NilClass,Koepp-Donnelly,0417 Cambridge Pass
+180,987,195821.69,Acura,SLX,error: undefined method `strip' for nil:NilClass,Parker-O'Conner,98 Mcguire Point
+181,172,83124.29,Jeep,Commander,error: undefined method `strip' for nil:NilClass,Champlin-Bayer,23 Heffernan Avenue
+182,670,108858.16,Suzuki,Forenza,error: undefined method `strip' for nil:NilClass,"Collins, Ratke and Lynch",08 Packers Point
+183,355,82086.67,Lexus,LX,error: undefined method `strip' for nil:NilClass,"Boyer, Mohr and Walsh",24677 Northport Street
+184,741,218792.05,Land Rover,LR3,error: undefined method `strip' for nil:NilClass,Wunsch-Kirlin,9 Rowland Trail
+185,128,86657.95,BMW,M5,error: undefined method `strip' for nil:NilClass,Ullrich LLC,339 Browning Crossing
+186,292,37346.06,Jeep,Grand Cherokee,error: undefined method `strip' for nil:NilClass,"Koelpin, Lehner and Frami",14 Crescent Oaks Avenue
+187,108,38051.30,Mitsubishi,Precis,error: undefined method `strip' for nil:NilClass,Jenkins LLC,44604 Judy Parkway
+188,904,156147.31,Honda,Civic GX,error: undefined method `strip' for nil:NilClass,Gerhold and Sons,0 Ilene Road
+189,37,197550.80,Dodge,Ram Wagon B350,error: undefined method `strip' for nil:NilClass,Kunze-Paucek,82 3rd Point
+190,508,16757.76,Ford,F-Series,error: undefined method `strip' for nil:NilClass,"Marquardt, Boyle and Frami",557 Twin Pines Pass
+191,325,24960.36,GMC,Jimmy,error: undefined method `strip' for nil:NilClass,"Schamberger, Ankunding and Stracke",663 Quincy Hill
+192,175,31320.62,Buick,LeSabre,error: undefined method `strip' for nil:NilClass,"Littel, Marvin and Hoeger",3 Rockefeller Park
+193,991,169961.91,Volkswagen,GTI,error: undefined method `strip' for nil:NilClass,Skiles-Koelpin,8 Sullivan Plaza
+194,701,78345.42,Mazda,RX-7,error: undefined method `strip' for nil:NilClass,"Becker, O'Keefe and Schamberger",7582 Longview Point
+195,886,26039.90,Ford,F-Series,error: undefined method `strip' for nil:NilClass,Kihn-Hartmann,26 Hooker Drive
+196,89,205753.13,Volvo,XC70,error: undefined method `strip' for nil:NilClass,Homenick-Ziemann,2014 Scoville Trail
+197,719,81517.12,Infiniti,G,error: undefined method `strip' for nil:NilClass,Bergstrom and Sons,834 Colorado Way
+198,284,193972.14,Acura,Integra,error: undefined method `strip' for nil:NilClass,Watsica LLC,49 Fisk Alley
+199,401,92539.78,Dodge,Dakota Club,error: undefined method `strip' for nil:NilClass,Wilderman-Will,04 Cottonwood Way
+200,101,144685.17,Jeep,Grand Cherokee,error: undefined method `strip' for nil:NilClass,Jones-Wiegand,8390 Harbort Hill
+201,130,116252.00,GMC,Yukon XL 2500,error: undefined method `strip' for nil:NilClass,Hyatt LLC,10 Hansons Pass
+202,204,17123.72,Volkswagen,Type 2,error: undefined method `strip' for nil:NilClass,Legros-Waters,90061 Huxley Street
+203,552,137725.24,Pontiac,Grand Prix,error: undefined method `strip' for nil:NilClass,Pouros LLC,5 Cascade Way
+204,108,197261.98,Infiniti,IPL G,error: undefined method `strip' for nil:NilClass,Berge-Krajcik,152 Pearson Way
+205,960,172121.61,BMW,X5,error: undefined method `strip' for nil:NilClass,Olson Group,0 David Lane
+206,417,62066.36,Mitsubishi,Starion,error: undefined method `strip' for nil:NilClass,"Russel, Lubowitz and Skiles",4587 Katie Plaza
+207,91,164837.26,Lotus,Elan,error: undefined method `strip' for nil:NilClass,Schneider and Sons,4 Clyde Gallagher Street
+208,961,155112.15,Chevrolet,Suburban 2500,error: undefined method `strip' for nil:NilClass,"Stamm, Jacobi and Kautzer",8132 Fulton Way
+209,822,58889.54,Mercury,Cougar,error: undefined method `strip' for nil:NilClass,Greenfelder Group,9061 Meadow Ridge Way
+210,872,52745.00,Chevrolet,Cobalt SS,error: undefined method `strip' for nil:NilClass,"Anderson, Schiller and Ratke",51 Stuart Park
+211,247,183427.74,Honda,Pilot,error: undefined method `strip' for nil:NilClass,Stracke and Sons,3 Independence Avenue
+212,173,81046.64,Mitsubishi,Montero,error: undefined method `strip' for nil:NilClass,Labadie-Hills,6 Westend Alley
+213,543,22262.95,Mazda,Miata MX-5,error: undefined method `strip' for nil:NilClass,VonRueden-Rutherford,432 South Lane
+214,195,69328.08,Mercedes-Benz,CL-Class,error: undefined method `strip' for nil:NilClass,Strosin-Haag,31193 Summit Hill
+215,46,84130.22,Subaru,Tribeca,error: undefined method `strip' for nil:NilClass,Daugherty-Gleason,07 5th Circle
+216,672,54040.77,Isuzu,Amigo,error: undefined method `strip' for nil:NilClass,Lubowitz-Medhurst,17 Dennis Alley
+217,512,148103.62,Kia,Sorento,error: undefined method `strip' for nil:NilClass,Veum-Prohaska,75249 Hoffman Trail
+218,346,52663.97,Toyota,4Runner,error: undefined method `strip' for nil:NilClass,"Reichert, Schaden and Hermann",4338 Schmedeman Hill
+219,193,20229.90,Mercedes-Benz,SL-Class,error: undefined method `strip' for nil:NilClass,Harber Inc,5161 Roth Junction
+220,106,25509.53,Cadillac,CTS-V,error: undefined method `strip' for nil:NilClass,"D'Amore, O'Conner and Beer",91 Florence Place
+221,797,131507.37,Subaru,Impreza,error: undefined method `strip' for nil:NilClass,Marvin LLC,954 Oxford Park
+222,794,119914.39,Ford,Econoline E350,error: undefined method `strip' for nil:NilClass,Wisozk Group,1463 Buena Vista Crossing
+223,188,134884.48,Lotus,Esprit,error: undefined method `strip' for nil:NilClass,Pagac-Green,157 Karstens Drive
+224,193,12316.21,Chevrolet,Aveo,error: undefined method `strip' for nil:NilClass,Ferry Group,16 Judy Junction
+225,83,89272.44,Land Rover,Range Rover,error: undefined method `strip' for nil:NilClass,Ortiz-Rath,24 Montana Junction
+226,405,188923.59,Isuzu,Rodeo,error: undefined method `strip' for nil:NilClass,"Berge, Koepp and Feeney",8 Fordem Parkway
+227,247,86797.51,Nissan,Maxima,error: undefined method `strip' for nil:NilClass,Muller LLC,81064 Sherman Road
+228,583,192326.88,Nissan,Versa,error: undefined method `strip' for nil:NilClass,"Hermann, Berge and Skiles",67 1st Point
+229,360,70269.57,Ford,Escape,error: undefined method `strip' for nil:NilClass,Raynor-Towne,87 Sullivan Point
+230,713,38207.42,Nissan,Altima,error: undefined method `strip' for nil:NilClass,Daugherty-Champlin,9 Rieder Circle
+231,933,15035.58,Audi,S8,error: undefined method `strip' for nil:NilClass,Ruecker and Sons,97 Coolidge Junction
+232,867,52582.92,Hyundai,Elantra,error: undefined method `strip' for nil:NilClass,Nader-Waters,66 Clyde Gallagher Terrace
+233,666,122369.68,Toyota,Avalon,error: undefined method `strip' for nil:NilClass,"Mann, Cummerata and Jast",6 Graceland Road
+234,54,193262.52,Oldsmobile,Ciera,error: undefined method `strip' for nil:NilClass,Blanda-Fadel,51 La Follette Drive
+235,479,161063.99,Plymouth,Colt Vista,error: undefined method `strip' for nil:NilClass,Moen-Morar,84416 Fieldstone Avenue
+236,515,76834.65,Buick,LeSabre,error: undefined method `strip' for nil:NilClass,Ledner LLC,51 Bobwhite Junction
+237,131,216755.43,Honda,Accord,error: undefined method `strip' for nil:NilClass,"Lind, Conn and Goodwin",8783 Merry Center
+238,10,45657.91,Toyota,Corolla,error: undefined method `strip' for nil:NilClass,"Treutel, Bradtke and Bartoletti",33 Delladonna Court
+239,229,60707.03,Chevrolet,Lumina,error: undefined method `strip' for nil:NilClass,"Pouros, Towne and Rowe",29 Victoria Terrace
+240,622,50123.05,Ford,F150,error: undefined method `strip' for nil:NilClass,Kirlin and Sons,68888 Towne Circle
+241,341,87647.34,Oldsmobile,Alero,error: undefined method `strip' for nil:NilClass,Abernathy and Sons,1802 Upham Point
+242,823,153739.22,Toyota,Land Cruiser,error: undefined method `strip' for nil:NilClass,Kessler-Breitenberg,2530 Prairieview Parkway
+243,353,106986.92,Mazda,MX-5,error: undefined method `strip' for nil:NilClass,"Effertz, Schiller and Nolan",31 Knutson Circle
+244,468,205857.25,Toyota,RAV4,error: undefined method `strip' for nil:NilClass,Grant-Jacobi,40936 Artisan Park
+245,143,169465.41,Mercury,Villager,error: undefined method `strip' for nil:NilClass,Grady-Bogan,7748 Hanover Crossing
+246,752,51599.69,Ford,Fairlane,error: undefined method `strip' for nil:NilClass,Barrows-Runolfsson,61885 Blue Bill Park Crossing
+247,182,69456.03,BMW,7 Series,error: undefined method `strip' for nil:NilClass,Kub-Gerlach,8 Hagan Alley
+248,963,93701.16,Saturn,Outlook,error: undefined method `strip' for nil:NilClass,Zboncak-Flatley,91273 Fremont Avenue
+249,606,184659.74,Jaguar,XK Series,error: undefined method `strip' for nil:NilClass,Heller and Sons,13 Hallows Point
+250,188,31773.13,Dodge,Caravan,error: undefined method `strip' for nil:NilClass,Becker Group,691 Gina Parkway
+251,531,52507.99,GMC,Sonoma Club Coupe,error: undefined method `strip' for nil:NilClass,Berge Group,8 Derek Circle
+252,373,134916.51,Land Rover,Freelander,error: undefined method `strip' for nil:NilClass,Mante Group,82787 Ridge Oak Pass
+253,588,17858.85,Mazda,MX-3,error: undefined method `strip' for nil:NilClass,"Connelly, Hilpert and Baumbach",40276 Russell Park
+254,575,159667.20,Nissan,Frontier,error: undefined method `strip' for nil:NilClass,Schuster and Sons,6 Northfield Circle
+255,501,167487.04,Infiniti,Q,error: undefined method `strip' for nil:NilClass,Lang Inc,53 Summer Ridge Avenue
+256,475,199542.85,Scion,tC,error: undefined method `strip' for nil:NilClass,"Fritsch, Ortiz and Shields",41 Sachs Center
+257,850,15210.41,Chevrolet,Impala,error: undefined method `strip' for nil:NilClass,Halvorson-Pouros,5185 Tennessee Trail
+258,944,51114.48,Volkswagen,Corrado,error: undefined method `strip' for nil:NilClass,"Kovacek, Waters and Reinger",4160 Montana Drive
+259,323,166236.94,Subaru,Outback,error: undefined method `strip' for nil:NilClass,Jacobson-Pouros,83 Kipling Court
+260,87,164932.57,Honda,CR-V,error: undefined method `strip' for nil:NilClass,"Ondricka, Waelchi and Torphy",3 Debs Drive
+261,38,168618.73,Audi,4000s,error: undefined method `strip' for nil:NilClass,"Hayes, MacGyver and Walter",48791 Mosinee Crossing
+262,560,109390.91,Honda,S2000,error: undefined method `strip' for nil:NilClass,Murray LLC,137 Daystar Alley
+263,977,11849.95,Toyota,RAV4,error: undefined method `strip' for nil:NilClass,Reichel and Sons,386 Forest Hill
+264,787,136445.06,Aston Martin,Vanquish S,error: undefined method `strip' for nil:NilClass,"Nitzsche, Batz and Bashirian",80 Prentice Avenue
+265,993,78627.97,Kia,Sephia,error: undefined method `strip' for nil:NilClass,Hand and Sons,3890 Manitowish Crossing
+266,615,71752.55,Infiniti,QX,error: undefined method `strip' for nil:NilClass,Turcotte Inc,93 Mallard Hill
+267,320,135265.94,Oldsmobile,Toronado,error: undefined method `strip' for nil:NilClass,"Lueilwitz, Kemmer and Borer",49921 Green Drive
+268,32,115789.44,Land Rover,Range Rover,error: undefined method `strip' for nil:NilClass,Breitenberg Group,3 Crest Line Hill
+269,778,155282.44,Pontiac,Solstice,error: undefined method `strip' for nil:NilClass,"Hartmann, Johnston and VonRueden",1685 Corry Terrace
+270,3,91644.50,Mitsubishi,Cordia,error: undefined method `strip' for nil:NilClass,Pouros LLC,7 Starling Court
+271,512,125810.82,Pontiac,Grand Prix,error: undefined method `strip' for nil:NilClass,Rice-Spinka,5 Maryland Plaza
+272,846,74828.06,Hyundai,Entourage,error: undefined method `strip' for nil:NilClass,Murphy Inc,83 Schlimgen Center
+273,688,36692.52,Toyota,Camry Solara,error: undefined method `strip' for nil:NilClass,Luettgen-Hermiston,354 Pierstorff Crossing
+274,221,189379.99,Chevrolet,2500,error: undefined method `strip' for nil:NilClass,"Stoltenberg, Dach and Rau",3 Milwaukee Terrace
+275,493,116950.74,Alfa Romeo,164,error: undefined method `strip' for nil:NilClass,Lakin and Sons,1430 Gulseth Parkway
+276,339,91199.71,Mitsubishi,Montero,error: undefined method `strip' for nil:NilClass,Kris and Sons,7260 Independence Point
+277,796,215054.62,Nissan,Pathfinder,error: undefined method `strip' for nil:NilClass,"Kutch, Kuphal and Smith",930 Dryden Lane
+278,935,23833.36,Chevrolet,Monte Carlo,error: undefined method `strip' for nil:NilClass,"Bashirian, Nolan and Roberts",63968 Tomscot Trail
+279,808,124803.43,Cadillac,Escalade EXT,error: undefined method `strip' for nil:NilClass,Yundt LLC,8 Jackson Point
+280,666,216785.81,GMC,Yukon XL 2500,error: undefined method `strip' for nil:NilClass,Russel and Sons,7642 Sycamore Terrace
+281,970,34033.41,Nissan,Titan,error: undefined method `strip' for nil:NilClass,Maggio-Stehr,558 Eggendart Circle
+282,251,157229.64,Chevrolet,SSR,error: undefined method `strip' for nil:NilClass,Bauch Inc,38 Pawling Circle
+283,166,63825.32,Suzuki,Daewoo Lacetti,error: undefined method `strip' for nil:NilClass,"McClure, Deckow and Stiedemann",5 Waubesa Center
+284,747,137570.19,Dodge,Caliber,error: undefined method `strip' for nil:NilClass,"Hauck, Hettinger and Reilly",58 Bellgrove Street
+285,863,155548.18,Jeep,Cherokee,error: undefined method `strip' for nil:NilClass,"Schoen, Murray and Hane",9 Sunnyside Terrace
+286,102,150906.95,Scion,xB,error: undefined method `strip' for nil:NilClass,Murazik LLC,2797 Holy Cross Alley
+287,974,128296.60,Aston Martin,DBS,error: undefined method `strip' for nil:NilClass,Leannon-Hickle,40 Atwood Alley
+288,808,209576.96,Chrysler,Crossfire Roadster,error: undefined method `strip' for nil:NilClass,Smith Inc,09028 Acker Junction
+289,710,41941.93,Audi,RS4,error: undefined method `strip' for nil:NilClass,Senger-Legros,906 Maywood Point
+290,877,78364.85,Subaru,Baja,error: undefined method `strip' for nil:NilClass,Konopelski-Beer,1711 Bonner Place
+291,609,126293.03,Subaru,Legacy,error: undefined method `strip' for nil:NilClass,"Mayert, Stokes and Vandervort",8 Talisman Pass
+292,392,15422.87,Chrysler,PT Cruiser,error: undefined method `strip' for nil:NilClass,Lockman-Armstrong,0 Holy Cross Way
+293,344,137783.38,BMW,8 Series,error: undefined method `strip' for nil:NilClass,"Senger, Grant and Larson",096 Anhalt Park
+294,633,123545.07,Mazda,Protege,error: undefined method `strip' for nil:NilClass,Kulas-Wehner,26 Pine View Court
+295,531,193408.69,Pontiac,Grand Am,error: undefined method `strip' for nil:NilClass,Will-Lakin,96062 Myrtle Plaza
+296,647,36245.23,Ferrari,F430 Spider,error: undefined method `strip' for nil:NilClass,Jenkins-Koss,86720 Thierer Court
+297,25,190277.32,Ford,Tempo,error: undefined method `strip' for nil:NilClass,Pagac-Swaniawski,7610 Bunker Hill Junction
+298,25,143185.12,Pontiac,Firebird Formula,error: undefined method `strip' for nil:NilClass,Tromp-Quitzon,1835 Mosinee Crossing
+299,495,194293.14,Ram,1500,error: undefined method `strip' for nil:NilClass,Schamberger Group,3 Stang Avenue
+300,795,112477.19,Eagle,Vision,error: undefined method `strip' for nil:NilClass,"Hintz, Jacobs and Hyatt",83 Sugar Terrace
+301,902,208883.83,Mercedes-Benz,CLS-Class,error: undefined method `strip' for nil:NilClass,"Terry, Brown and McDermott",4325 Sunbrook Point
+302,844,74662.83,GMC,Sonoma Club Coupe,error: undefined method `strip' for nil:NilClass,"Koch, Carroll and Turcotte",61 Esker Park
+303,104,124837.34,Subaru,Outback,error: undefined method `strip' for nil:NilClass,Dooley LLC,6 Aberg Plaza
+304,367,168909.79,Lexus,LX,error: undefined method `strip' for nil:NilClass,Marvin-Huels,73998 Arapahoe Point
+305,320,107038.95,Acura,RSX,error: undefined method `strip' for nil:NilClass,D'Amore-Donnelly,8094 Darwin Street
+306,840,113095.04,Toyota,Corolla,error: undefined method `strip' for nil:NilClass,Gorczany-Hand,01 Washington Court
+307,316,150681.33,Ford,F150,error: undefined method `strip' for nil:NilClass,Schulist-Auer,8 Reinke Trail
+308,179,121603.20,Toyota,T100 Xtra,error: undefined method `strip' for nil:NilClass,Hilpert-Weissnat,9486 Moulton Pass
+309,291,165591.55,Ford,Festiva,error: undefined method `strip' for nil:NilClass,"McCullough, Wiegand and Stroman",40 Fuller Lane
+310,761,87208.59,Pontiac,Bonneville,error: undefined method `strip' for nil:NilClass,Goodwin Inc,49 Oak Valley Park
+311,334,57626.13,Buick,LaCrosse,error: undefined method `strip' for nil:NilClass,"Lynch, Green and Fay",973 Milwaukee Court
+312,36,204322.41,Cadillac,XLR,error: undefined method `strip' for nil:NilClass,Macejkovic LLC,2714 Grim Crossing
+313,943,185050.16,Toyota,MR2,error: undefined method `strip' for nil:NilClass,"Stehr, Rutherford and Bahringer",288 Packers Crossing
+314,162,75168.30,Mazda,Tribute,error: undefined method `strip' for nil:NilClass,"Reynolds, Frami and Schamberger",7715 Little Fleur Plaza
+315,243,78843.87,Infiniti,QX,error: undefined method `strip' for nil:NilClass,Wuckert Group,3 Golf Course Hill
+316,757,172806.04,Mazda,Miata MX-5,error: undefined method `strip' for nil:NilClass,Hand-Ebert,8104 Spohn Plaza
+317,542,151573.86,Dodge,Grand Caravan,error: undefined method `strip' for nil:NilClass,Hartmann-Trantow,629 Pepper Wood Street
+318,213,100769.31,Volkswagen,Cabriolet,error: undefined method `strip' for nil:NilClass,Keebler Group,24 Sullivan Junction
+319,324,55398.10,Chevrolet,Blazer,error: undefined method `strip' for nil:NilClass,"Jast, Olson and Schiller",65141 Mcguire Park
+320,345,116649.06,Lexus,ES,error: undefined method `strip' for nil:NilClass,Schumm-Luettgen,43 Mitchell Plaza
+321,551,77751.20,Maserati,228,error: undefined method `strip' for nil:NilClass,Nienow and Sons,649 Portage Pass
+322,991,173161.48,Nissan,Frontier,error: undefined method `strip' for nil:NilClass,"Casper, Will and Moen",7 Roxbury Parkway
+323,870,31961.30,Hyundai,Tiburon,error: undefined method `strip' for nil:NilClass,"Stiedemann, Donnelly and Harvey",4910 Claremont Way
+324,713,205324.94,GMC,Sierra 2500,error: undefined method `strip' for nil:NilClass,Russel-Berge,46 Express Trail
+325,730,58596.86,Buick,Enclave,error: undefined method `strip' for nil:NilClass,Tromp-Steuber,416 Holy Cross Point
+326,82,162916.19,Toyota,Sequoia,error: undefined method `strip' for nil:NilClass,Schinner-Strosin,75747 Bayside Street
+327,724,153878.78,Eagle,Summit,error: undefined method `strip' for nil:NilClass,Schumm-Hane,7708 Montana Lane
+328,780,63408.49,Buick,Regal,error: undefined method `strip' for nil:NilClass,Simonis Group,75 Waxwing Trail
+329,988,119451.94,Chevrolet,Astro,error: undefined method `strip' for nil:NilClass,Greenholt-Sporer,9 Hazelcrest Hill
+330,937,142730.78,Audi,R8,error: undefined method `strip' for nil:NilClass,O'Conner Inc,9811 Dunning Lane
+331,20,51502.41,Lincoln,MKS,error: undefined method `strip' for nil:NilClass,"Wehner, O'Connell and Dietrich",66125 Russell Alley
+332,613,176105.99,Audi,Coupe GT,error: undefined method `strip' for nil:NilClass,"Funk, Konopelski and Bayer",0 Daystar Court
+333,6,58911.23,Dodge,Charger,error: undefined method `strip' for nil:NilClass,Pouros Inc,5722 Melby Terrace
+334,654,212439.86,Toyota,Solara,error: undefined method `strip' for nil:NilClass,King-Mueller,4 Almo Avenue
+335,345,89997.10,Dodge,Viper RT/10,error: undefined method `strip' for nil:NilClass,O'Kon-Kuhn,323 Tennyson Circle
+336,622,169394.44,Dodge,Avenger,error: undefined method `strip' for nil:NilClass,O'Connell-Bins,36 Vernon Lane
+337,641,14073.71,Ford,Explorer,error: undefined method `strip' for nil:NilClass,Halvorson-Jones,27280 8th Park
+338,970,217731.96,Honda,Accord,error: undefined method `strip' for nil:NilClass,Rolfson and Sons,40483 Hoard Lane
+339,402,109096.68,Toyota,Camry Hybrid,error: undefined method `strip' for nil:NilClass,"Vandervort, Schamberger and Rohan",8 John Wall Plaza
+340,429,63854.00,Acura,TL,error: undefined method `strip' for nil:NilClass,Swaniawski Inc,26 Kenwood Terrace
+341,302,119944.18,Mitsubishi,Eclipse,error: undefined method `strip' for nil:NilClass,"Armstrong, Mitchell and Howe",449 Lawn Center
+342,288,219212.90,Chevrolet,Express 3500,error: undefined method `strip' for nil:NilClass,Bosco-Goldner,13252 Bluestem Terrace
+343,643,162080.55,Dodge,Dakota,error: undefined method `strip' for nil:NilClass,"Frami, Wolf and Glover",1 Susan Center
+344,98,199245.10,Mitsubishi,Starion,error: undefined method `strip' for nil:NilClass,Lebsack LLC,58 Melody Crossing
+345,718,177616.21,Mazda,CX-5,error: undefined method `strip' for nil:NilClass,McKenzie Group,88924 Kennedy Street
+346,523,168891.85,Saturn,L-Series,error: undefined method `strip' for nil:NilClass,"Koepp, Watsica and Prosacco",92 Luster Lane
+347,525,81014.61,Mercedes-Benz,C-Class,error: undefined method `strip' for nil:NilClass,"Kassulke, Ledner and Reichel",0 Debs Point
+348,559,130751.61,Hyundai,Sonata,error: undefined method `strip' for nil:NilClass,"Hagenes, Brakus and Bins",8 Onsgard Hill
+349,690,52016.96,Chevrolet,Aveo,error: undefined method `strip' for nil:NilClass,Sporer-Johnson,623 Lake View Center
+350,478,192480.08,GMC,Sonoma,error: undefined method `strip' for nil:NilClass,Mosciski LLC,37 Anzinger Center
+351,166,29884.77,Mercedes-Benz,S-Class,error: undefined method `strip' for nil:NilClass,Swaniawski-Donnelly,70 Anniversary Plaza
+352,221,177110.27,Audi,S4,error: undefined method `strip' for nil:NilClass,"Stamm, Schamberger and Marks",6 Clove Road
+353,715,182737.58,Dodge,Ram 1500 Club,error: undefined method `strip' for nil:NilClass,McDermott-Gorczany,2 Jenna Circle
+354,87,115131.17,Chevrolet,Blazer,error: undefined method `strip' for nil:NilClass,"Boyle, Kassulke and Boehm",98 Summit Hill
+355,967,133963.45,Mazda,MX-5,error: undefined method `strip' for nil:NilClass,"Erdman, Mann and Johns",3479 Elka Court
+356,80,156254.89,Lincoln,Continental,error: undefined method `strip' for nil:NilClass,"Quigley, Bode and Christiansen",4 Granby Center
+357,512,160827.18,Jeep,Grand Cherokee,error: undefined method `strip' for nil:NilClass,"Swift, Dickinson and Halvorson",0 Thierer Court
+358,851,62090.97,Volvo,C30,error: undefined method `strip' for nil:NilClass,Metz Group,29554 Vermont Crossing
+359,760,104404.85,Ford,Mustang,error: undefined method `strip' for nil:NilClass,Kovacek-Koepp,6228 Pankratz Lane
+360,496,167960.44,Dodge,Ram 3500,error: undefined method `strip' for nil:NilClass,Kuvalis-Yost,31 Reindahl Drive
+361,134,158058.43,Mazda,Millenia,error: undefined method `strip' for nil:NilClass,Gutkowski LLC,116 Bashford Center
+362,876,217592.72,Mercedes-Benz,SL-Class,error: undefined method `strip' for nil:NilClass,"Hegmann, Mosciski and Schulist",39 7th Court
+363,303,45396.07,Kia,Sedona,error: undefined method `strip' for nil:NilClass,Heathcote Inc,7546 Golf View Junction
+364,534,126110.91,Hyundai,Sonata,error: undefined method `strip' for nil:NilClass,Hane-Goldner,46655 Corry Center
+365,261,22469.65,Infiniti,Q,error: undefined method `strip' for nil:NilClass,"Jenkins, McLaughlin and Price",715 Meadow Ridge Court
+366,997,79519.67,Suzuki,Verona,error: undefined method `strip' for nil:NilClass,Ernser and Sons,83139 Lawn Junction
+367,80,90603.51,GMC,Terrain,error: undefined method `strip' for nil:NilClass,"Bergstrom, Klocko and Nolan",9 Twin Pines Trail
+368,489,161769.21,Toyota,Yaris,error: undefined method `strip' for nil:NilClass,Johnson and Sons,08631 Service Road
+369,462,45679.79,Ford,Probe,error: undefined method `strip' for nil:NilClass,McLaughlin-Lang,3 Parkside Park
+370,338,169524.70,Chrysler,Concorde,error: undefined method `strip' for nil:NilClass,"Hilpert, Haley and Jacobs",61578 Melody Alley
+371,564,132357.37,Rolls-Royce,Ghost,error: undefined method `strip' for nil:NilClass,"Bogan, Toy and Hammes",7617 Bluestem Center
+372,147,175880.92,Dodge,Dakota Club,error: undefined method `strip' for nil:NilClass,Heaney-Jacobs,7 Moose Hill
+373,224,44067.22,Hyundai,Santa Fe,error: undefined method `strip' for nil:NilClass,Kuphal LLC,1 Lindbergh Trail
+374,300,211715.50,Daewoo,Leganza,error: undefined method `strip' for nil:NilClass,"Gottlieb, Yost and Braun",15 Homewood Street
+375,313,59376.05,Dodge,D350 Club,error: undefined method `strip' for nil:NilClass,"Shanahan, Corkery and Hoeger",74119 New Castle Hill
+376,77,139003.65,Hyundai,Genesis Coupe,error: undefined method `strip' for nil:NilClass,"Pouros, Kuvalis and Gislason",2466 Marcy Trail
+377,408,119979.84,Hyundai,Genesis,error: undefined method `strip' for nil:NilClass,Goldner LLC,7 Nancy Circle
+378,172,203420.69,GMC,Savana 1500,error: undefined method `strip' for nil:NilClass,Wehner-Steuber,74 Stone Corner Court
+379,70,75040.66,Honda,Accord,error: undefined method `strip' for nil:NilClass,Harris and Sons,34 Buena Vista Circle
+380,511,107553.21,BMW,M3,error: undefined method `strip' for nil:NilClass,Kohler-Emmerich,02 Rutledge Avenue
+381,212,139029.62,Mercedes-Benz,E-Class,error: undefined method `strip' for nil:NilClass,Haag-Bayer,5601 Maywood Parkway
+382,235,52105.28,Dodge,Charger,error: undefined method `strip' for nil:NilClass,Crist-Gottlieb,21778 Rusk Point
+383,12,193458.89,Volkswagen,GTI,error: undefined method `strip' for nil:NilClass,Aufderhar-Borer,66959 2nd Plaza
+384,144,181676.43,Lincoln,LS,error: undefined method `strip' for nil:NilClass,"Nikolaus, Schoen and Wuckert",30 Packers Way
+385,386,216477.51,Mitsubishi,Lancer,error: undefined method `strip' for nil:NilClass,Cassin Group,28 Packers Hill
+386,893,167582.42,Buick,Regal,error: undefined method `strip' for nil:NilClass,King-Herman,7 Moose Place
+387,156,52222.29,Lincoln,Mark LT,error: undefined method `strip' for nil:NilClass,Koss Inc,5704 Vidon Circle
+388,112,34974.29,Ford,Escape,error: undefined method `strip' for nil:NilClass,Predovic LLC,45064 Merrick Terrace
+389,548,58506.73,Chrysler,Cirrus,error: undefined method `strip' for nil:NilClass,"Gutkowski, Spinka and Wilkinson",3567 Towne Hill
+390,135,57449.83,Jeep,Compass,error: undefined method `strip' for nil:NilClass,"West, Carroll and Runte",6605 Little Fleur Junction
+391,285,15934.76,Toyota,Tundra,error: undefined method `strip' for nil:NilClass,Schmidt Group,5 Mockingbird Trail
+392,53,24802.44,Mitsubishi,Eclipse,error: undefined method `strip' for nil:NilClass,Rippin and Sons,3 Lake View Plaza
+393,546,136897.37,Chevrolet,Express 2500,error: undefined method `strip' for nil:NilClass,"Paucek, Howe and O'Connell",2 Independence Point
+394,889,52092.46,Dodge,Grand Caravan,error: undefined method `strip' for nil:NilClass,Labadie Inc,1177 Walton Junction
+395,316,174089.36,Aston Martin,DBS,error: undefined method `strip' for nil:NilClass,"Volkman, Roob and Funk",74 Rigney Parkway
+396,350,35720.13,Subaru,Forester,error: undefined method `strip' for nil:NilClass,Kunde LLC,5380 Duke Trail
+397,882,42632.62,Honda,Accord,error: undefined method `strip' for nil:NilClass,Hauck and Sons,19 Thackeray Junction
+398,403,122470.96,Cadillac,Escalade,error: undefined method `strip' for nil:NilClass,Cummings and Sons,7649 Thackeray Hill
+399,522,14388.62,Nissan,NV1500,error: undefined method `strip' for nil:NilClass,Lang LLC,45822 Bayside Junction
+400,770,11575.28,Ford,ZX2,error: undefined method `strip' for nil:NilClass,"Maggio, Weissnat and Goyette",390 Gerald Junction
+401,274,64022.93,Ford,GT,error: undefined method `strip' for nil:NilClass,Block and Sons,622 Texas Lane
+402,222,32661.66,Mazda,Millenia,error: undefined method `strip' for nil:NilClass,"Moore, Simonis and Rau",548 4th Road
+403,215,71115.77,Toyota,Truck Xtracab SR5,error: undefined method `strip' for nil:NilClass,Klein-Kerluke,748 Bluejay Plaza
+404,912,95282.50,Honda,Passport,error: undefined method `strip' for nil:NilClass,Schroeder Inc,0336 Maple Wood Hill
+405,188,123037.89,Mercury,Monterey,error: undefined method `strip' for nil:NilClass,Shanahan Group,09 Carpenter Street
+406,238,153617.73,Toyota,4Runner,error: undefined method `strip' for nil:NilClass,Collins Group,15 Westend Drive
+407,876,49813.02,Volkswagen,GTI,error: undefined method `strip' for nil:NilClass,Walter Inc,46062 Hoffman Alley
+408,974,78396.23,Toyota,Camry,error: undefined method `strip' for nil:NilClass,Hansen Inc,4 Ridgeway Hill
+409,548,186700.48,Chevrolet,Suburban 1500,error: undefined method `strip' for nil:NilClass,Jaskolski and Sons,81 Pierstorff Point
+410,297,50539.67,Nissan,350Z,error: undefined method `strip' for nil:NilClass,Tromp Inc,81 Dixon Parkway
+411,337,154364.98,Chrysler,Voyager,error: undefined method `strip' for nil:NilClass,"Johns, Simonis and Armstrong",87510 Victoria Point
+412,836,89950.27,Volvo,S80,error: undefined method `strip' for nil:NilClass,Armstrong LLC,9 Buhler Lane
+413,671,133723.50,Volkswagen,Golf,error: undefined method `strip' for nil:NilClass,Renner and Sons,98 Rigney Place
+414,862,37913.45,Volkswagen,Touareg,error: undefined method `strip' for nil:NilClass,Rath-Lynch,449 Larry Trail
+415,32,39589.41,BMW,6 Series,error: undefined method `strip' for nil:NilClass,Kshlerin-Koepp,79230 Stoughton Way
+416,48,146117.44,Audi,Q7,error: undefined method `strip' for nil:NilClass,Sauer and Sons,8893 Waxwing Road
+417,808,162539.18,Volvo,S40,error: undefined method `strip' for nil:NilClass,"Pouros, Feil and Doyle",5689 High Crossing Terrace
+418,851,113835.40,Saab,9000,error: undefined method `strip' for nil:NilClass,McCullough-Lind,37 Brentwood Street
+419,62,183036.47,Ford,F250,error: undefined method `strip' for nil:NilClass,"Balistreri, Bins and Boehm",38875 Fair Oaks Point
+420,112,200550.56,Lotus,Esprit,error: undefined method `strip' for nil:NilClass,Olson-Kozey,4 Florence Hill
+421,311,30727.50,Porsche,Boxster,error: undefined method `strip' for nil:NilClass,Ruecker-Ferry,6 Fairview Avenue
+422,750,86179.47,Mitsubishi,Galant,error: undefined method `strip' for nil:NilClass,Cummings Inc,268 Ridgeway Alley
+423,940,24294.23,Dodge,Durango,error: undefined method `strip' for nil:NilClass,Ritchie Group,62 Del Sol Place
+424,601,180995.59,Pontiac,Aztek,error: undefined method `strip' for nil:NilClass,Bogan and Sons,250 Independence Court
+425,694,26822.63,Audi,A4,error: undefined method `strip' for nil:NilClass,Upton LLC,769 Moland Point
+426,78,65829.95,Chevrolet,Venture,error: undefined method `strip' for nil:NilClass,"Wilkinson, Thompson and Cruickshank",10 Toban Junction
+427,359,178960.75,Suzuki,SJ,error: undefined method `strip' for nil:NilClass,Schamberger LLC,19 Hovde Avenue
+428,769,185849.41,Subaru,Alcyone SVX,error: undefined method `strip' for nil:NilClass,Nikolaus Group,88733 Kropf Crossing
+429,237,181026.22,Hyundai,Sonata,error: undefined method `strip' for nil:NilClass,Goldner-Hamill,7 Browning Place
+430,273,115782.55,Mitsubishi,3000GT,error: undefined method `strip' for nil:NilClass,Labadie-O'Hara,3940 Springview Road
+431,666,140806.90,GMC,Sonoma,error: undefined method `strip' for nil:NilClass,King Group,853 Sutteridge Place
+432,747,12706.40,Dodge,Daytona,error: undefined method `strip' for nil:NilClass,"Pagac, Murray and Sawayn",0 Northview Circle
+433,787,197251.78,Dodge,Neon,error: undefined method `strip' for nil:NilClass,Heller-Pfeffer,931 Esch Lane
+434,946,136883.09,Mercury,Grand Marquis,error: undefined method `strip' for nil:NilClass,"Grimes, Wilkinson and Wiegand",522 Brown Hill
+435,300,80218.05,Mitsubishi,Outlander,error: undefined method `strip' for nil:NilClass,Moore-Sporer,19 Monument Alley
+436,698,147453.54,Ford,F250,error: undefined method `strip' for nil:NilClass,O'Conner and Sons,2368 Briar Crest Drive
+437,532,104223.17,MINI,Cooper,error: undefined method `strip' for nil:NilClass,"Grady, Kub and Lang",990 Dayton Court
+438,731,140210.20,Dodge,Ram 1500 Club,error: undefined method `strip' for nil:NilClass,"Oberbrunner, Pfannerstill and Zulauf",9 Fieldstone Trail
+439,330,99836.14,Buick,LaCrosse,error: undefined method `strip' for nil:NilClass,Johns-Block,869 Forster Point
+440,125,52069.25,Mitsubishi,GTO,error: undefined method `strip' for nil:NilClass,Moen Inc,2 Heath Circle
+441,270,116877.84,Volkswagen,Cabriolet,error: undefined method `strip' for nil:NilClass,"Hayes, Walker and Champlin",87894 Surrey Junction
+442,317,95641.34,Acura,TL,error: undefined method `strip' for nil:NilClass,Simonis-McCullough,9907 Talmadge Place
+443,528,116498.17,Mercury,Sable,error: undefined method `strip' for nil:NilClass,"Luettgen, Vandervort and Bruen",14925 Springview Plaza
+444,834,211426.91,Mazda,Mazda2,error: undefined method `strip' for nil:NilClass,Sawayn Group,29047 Sullivan Trail
+445,509,16343.47,Jeep,Liberty,error: undefined method `strip' for nil:NilClass,Cummerata-Abernathy,99 Petterle Trail
+446,229,210118.58,Land Rover,Discovery,error: undefined method `strip' for nil:NilClass,Nicolas and Sons,91376 Elmside Way
+447,456,21425.72,Mercedes-Benz,W201,error: undefined method `strip' for nil:NilClass,Price-Ankunding,413 Southridge Plaza
+448,606,102142.15,Dodge,Ram 3500,error: undefined method `strip' for nil:NilClass,"Schmitt, Mueller and Barton",726 Oak Circle
+449,332,185990.64,Nissan,240SX,error: undefined method `strip' for nil:NilClass,Kiehn Group,823 Dorton Pass
+450,374,188266.49,Ford,E-Series,error: undefined method `strip' for nil:NilClass,Raynor-Kuhic,16 Pond Street
+451,79,156375.94,Toyota,4Runner,error: undefined method `strip' for nil:NilClass,Crona and Sons,81612 Hermina Park
+452,585,19714.97,Chevrolet,S10,error: undefined method `strip' for nil:NilClass,Wolf Inc,72 Delaware Avenue
+453,768,141710.06,Maybach,62,error: undefined method `strip' for nil:NilClass,West Inc,15 Glendale Plaza
+454,501,70297.89,Ford,Mustang,error: undefined method `strip' for nil:NilClass,Price LLC,1 Ridge Oak Pass
+455,392,158871.10,Ford,E250,error: undefined method `strip' for nil:NilClass,Sanford Group,328 Scoville Pass
+456,160,96267.49,Dodge,Grand Caravan,error: undefined method `strip' for nil:NilClass,Murphy-Thompson,94 Butterfield Park
+457,464,209025.57,Suzuki,Swift,error: undefined method `strip' for nil:NilClass,Schultz-Lang,731 Grayhawk Terrace
+458,727,122442.17,Volkswagen,Jetta,error: undefined method `strip' for nil:NilClass,"Blanda, Kreiger and Greenfelder",334 Lukken Center
+459,742,56372.54,Mercury,Lynx,error: undefined method `strip' for nil:NilClass,Pollich-Dickinson,2 Superior Alley
+460,516,209062.06,Chevrolet,Monte Carlo,error: undefined method `strip' for nil:NilClass,Johns-Stamm,5023 Caliangt Alley
+461,497,35119.52,Volkswagen,New Beetle,error: undefined method `strip' for nil:NilClass,Green Group,218 Hoffman Court
+462,419,198569.83,Chevrolet,APV,error: undefined method `strip' for nil:NilClass,Mraz-Kihn,07499 Butternut Street
+463,149,122857.60,Kia,Borrego,error: undefined method `strip' for nil:NilClass,Keebler Group,27 Thompson Alley
+464,205,67192.62,Mercury,Topaz,error: undefined method `strip' for nil:NilClass,"Gusikowski, Boyer and Macejkovic",65 Emmet Crossing
+465,97,181856.40,Pontiac,6000,error: undefined method `strip' for nil:NilClass,Kerluke Inc,0 Hansons Way
+466,759,66063.08,GMC,Vandura 3500,error: undefined method `strip' for nil:NilClass,Wolff Inc,3 Fordem Alley
+467,364,11231.95,Volvo,C70,error: undefined method `strip' for nil:NilClass,"Beahan, Turner and Feeney",71 Dorton Alley
+468,949,184578.78,Toyota,Prius v,error: undefined method `strip' for nil:NilClass,Schaden and Sons,4 Forest Run Pass
+469,770,166794.70,Infiniti,FX,error: undefined method `strip' for nil:NilClass,"Emard, Anderson and Langworth",69033 Bunker Hill Plaza
+470,577,191850.22,Honda,S2000,error: undefined method `strip' for nil:NilClass,"Jast, Schamberger and Frami",92 Darwin Alley
+471,608,207765.79,Dodge,Grand Caravan,error: undefined method `strip' for nil:NilClass,"Pouros, Thiel and Sanford",32054 Little Fleur Avenue
+472,527,27764.90,Nissan,Sentra,error: undefined method `strip' for nil:NilClass,Kiehn Inc,776 Mccormick Street
+473,912,93827.20,Hyundai,Sonata,error: undefined method `strip' for nil:NilClass,Mohr LLC,9 Heffernan Pass
+474,461,152355.42,Mercedes-Benz,SLR McLaren,error: undefined method `strip' for nil:NilClass,Bechtelar Group,7 Sycamore Place
+475,232,113555.48,Hyundai,Equus,error: undefined method `strip' for nil:NilClass,Marks and Sons,16 Bashford Trail
+476,45,197713.78,Jeep,Wrangler,error: undefined method `strip' for nil:NilClass,O'Conner and Sons,98 Cardinal Plaza
+477,156,70279.89,Mitsubishi,RVR,error: undefined method `strip' for nil:NilClass,"Weimann, Veum and Kulas",87 Kennedy Pass
+478,376,54726.63,Chevrolet,Sportvan G20,error: undefined method `strip' for nil:NilClass,"Hoeger, Osinski and Will",79 Fisk Place
+479,324,76169.26,Nissan,Sentra,error: undefined method `strip' for nil:NilClass,Hettinger-Stark,4 Nelson Road
+480,114,181147.16,Land Rover,LR2,error: undefined method `strip' for nil:NilClass,Stanton Group,6140 Dottie Plaza
+481,250,35018.25,Chevrolet,Cavalier,error: undefined method `strip' for nil:NilClass,O'Connell and Sons,48 Killdeer Circle
+482,190,128581.57,Mercury,Mariner,error: undefined method `strip' for nil:NilClass,Dickinson-Pfannerstill,231 Vera Trail
+483,769,108900.64,Ford,E150,error: undefined method `strip' for nil:NilClass,McCullough-Pfannerstill,78 School Parkway
+484,25,196503.33,Toyota,RAV4,error: undefined method `strip' for nil:NilClass,"Feeney, Keeling and Wolf",3725 Katie Crossing
+485,328,124188.01,MINI,Cooper,error: undefined method `strip' for nil:NilClass,Maggio Inc,4 Gerald Park
+486,334,178856.30,Oldsmobile,Cutlass Supreme,error: undefined method `strip' for nil:NilClass,"Stehr, Ritchie and Leffler",7 Bunker Hill Center
+487,425,165675.31,Mercury,Topaz,error: undefined method `strip' for nil:NilClass,Bauch LLC,08510 Tennessee Avenue
+488,488,159738.25,Ford,Laser,error: undefined method `strip' for nil:NilClass,"Rodriguez, Marvin and Schumm",959 Autumn Leaf Pass
+489,662,44096.24,Land Rover,Freelander,error: undefined method `strip' for nil:NilClass,Goldner and Sons,07 Westerfield Center
+490,475,181620.57,Lincoln,Navigator,error: undefined method `strip' for nil:NilClass,"Prohaska, Morar and Boehm",53786 Annamark Drive
+491,397,112363.17,Toyota,4Runner,error: undefined method `strip' for nil:NilClass,Buckridge-Kub,8 Division Plaza
+492,86,64597.12,Volkswagen,Golf,error: undefined method `strip' for nil:NilClass,Legros-Hilpert,751 Banding Avenue
+493,617,127649.09,Saab,9-3,error: undefined method `strip' for nil:NilClass,Schimmel-Bosco,79 Ridge Oak Park
+494,27,206264.39,BMW,3 Series,error: undefined method `strip' for nil:NilClass,Weber-Bartoletti,5043 Maple Wood Court
+495,146,107546.85,Lincoln,Blackwood,error: undefined method `strip' for nil:NilClass,Schmeler-Abshire,999 2nd Circle
+496,145,28930.83,Saab,900,error: undefined method `strip' for nil:NilClass,Donnelly-Ratke,100 6th Road
+497,491,85452.64,Chevrolet,Tracker,error: undefined method `strip' for nil:NilClass,Murray-Schneider,850 Wayridge Alley
+498,705,208172.36,Dodge,Dakota Club,error: undefined method `strip' for nil:NilClass,Hessel-Kozey,367 Main Way
+499,346,73044.93,Mercedes-Benz,S-Class,error: undefined method `strip' for nil:NilClass,Little Inc,43 7th Avenue
+500,32,209304.59,BMW,6 Series,error: undefined method `strip' for nil:NilClass,Altenwerth and Sons,20032 Amoth Trail
