@@ -5,4 +5,5 @@ Contains:
 - Python scripts to clean up data
 - Python scripts to generate SQL code
 - SQL queries
+- Datasets created from scripts for SQL and NoSQL DB (JSON)
 - Recommender system code
